@@ -1,21 +1,4 @@
-#include <iostream>
-#include <cmath>
-#include <vector>
-#include <cstdlib>
-#include <cstdio>
-#include <climits>
-#include <ctime>
-#include <cstring>
-#include <queue>
-#include <stack>
-#include <list>
-#include <algorithm>
-#include <map>
-#include <set>
-#define LL long long
-#define Pr pair<int,int>
-#define fread(ch) freopen(ch,"r",stdin)
-#define fwrite(ch) freopen(ch,"w",stdout)
+#include <bits/stdc++.h>
 
 using namespace std;
 const int INF = 0x3f3f3f3f;
