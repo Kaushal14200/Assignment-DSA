@@ -17,6 +17,6 @@ int main() {
         res+=table[i];
     }
     cout<<fixed<<std::setprecision(0)<<res;
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    
     return 0;
 }
