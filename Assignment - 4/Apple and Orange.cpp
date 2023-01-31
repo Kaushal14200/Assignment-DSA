@@ -9,8 +9,7 @@ const int maxn = 112345;
 
 int main()
 {
-    //fread("");
-    //fwrite("");
+   
 
     int s,t,a,b,m,n,x;
     int aa,bb;
